@@ -1,0 +1,12 @@
+{
+  "version": "1.1.0",
+  "releaseDate": "2026-11-01",
+  "title": "VIDFX Pro v1.1.0 Update",
+  "changelog": [
+    "Added 5 new viral Text Presets",
+    "Optimized AutoCut silence threshold",
+    "Fixed minor UI scaling bug on 4K monitors"
+  ],
+  "downloadUrl": "https://github.com/yourusername/vidfx-pro-updates/releases/download/v1.1.0/VIDFX_Pro_Update.exe",
+  "requiresEngineUpdate": false
+}
